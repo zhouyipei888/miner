@@ -1,0 +1,2 @@
+# miner
+cpu
